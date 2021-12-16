@@ -1,7 +1,8 @@
-# pretrained recognition model - kocrnn 만들기
+# kocrnn: CRNN 기반의 한글 텍스트 인식 모델 학습
 - clovaai의 deep-text-recognition-benchmark을 참고하여 한글 인식 pretrained model을 만든다.
 - 데이터셋: [AI Hub 한국어 글자체 이미지](https://aihub.or.kr/aidata/133), 직접 제작
 - 자세한 과정은 [velog](https://velog.io/@apphia39/python-CRNN-%ED%95%9C%EA%B8%80-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0)를 참고한다.
+<br>
 
 ## 폴더 / 파일 설명
 - 이미지파일 및 라벨링파일 등이 포함되는 폴더들은 용량이 너무 큰 관계로 레포지토리에 업데이트하지 못하였다.
