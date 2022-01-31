@@ -2,6 +2,7 @@
 - clovaai의 deep-text-recognition-benchmark을 참고하여 한글 인식 pretrained model을 만든다.
 - 데이터셋: [AI Hub 한국어 글자체 이미지](https://aihub.or.kr/aidata/133), 직접 제작
 - 자세한 과정은 [velog](https://velog.io/@apphia39/python-CRNN-%ED%95%9C%EA%B8%80-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0)를 참고한다.
+- [kocrnn.pth 다운로드](https://drive.google.com/file/d/1n3imuddnWD8H5R4GxO1T3yRzdvVohW6z/view?usp=sharing)
 <br>
 
 ## 폴더 / 파일 설명
