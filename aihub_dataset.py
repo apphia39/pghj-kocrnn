@@ -77,4 +77,4 @@ for obj in obj_list:
     annotations = total_annotations[file_name]
     for idx, annotation in enumerate(annotations):
       text = annotation['text']
-      gt_file.write(f'{obj}/{file_name}\t{text}')
+      gt_file.write(f'{obj}/{file_name}\t{text}\')
